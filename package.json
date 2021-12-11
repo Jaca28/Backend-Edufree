@@ -49,19 +49,19 @@
         "!*/__tests__"
     ],
     "dependencies": {
+        "@loopback/authentication": "^7.3.4",
         "@loopback/boot": "^3.4.4",
         "@loopback/core": "^2.18.0",
         "@loopback/repository": "^3.7.3",
         "@loopback/rest": "^10.1.0",
         "@loopback/rest-explorer": "^3.3.4",
+        "@loopback/security": "^0.5.4",
         "@loopback/service-proxy": "^3.2.4",
         "jsonwebtoken": "^8.5.1",
         "loopback-connector-mongodb": "^5.6.0",
+        "loopback-sdk-angular-cli": "^3.3.1",
         "parse-bearer-token": "^1.0.1",
-        "tslib": "^2.0.0",
-        "@loopback/authentication": "^7.3.4",
-        "@loopback/security": "^0.5.4"
-
+        "tslib": "^2.0.0"
     },
     "devDependencies": {
         "@loopback/build": "^7.0.2",
