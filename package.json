@@ -1,7 +1,7 @@
 {
     "name": "edufree",
     "version": "0.0.1",
-    "description": "Aplicacion para administracion academica.",
+    "description": "Aplicacion para administración academica.",
     "keywords": [
         "loopback-application",
         "loopback"
@@ -40,7 +40,7 @@
         "type": "git",
         "url": ""
     },
-    "author": "edwin rodriguez balcazares <cuadrado1980@yahoo.es>",
+    "author": "Junior Calle <jrcalleac@gmail.com>",
     "license": "",
     "files": [
         "README.md",
